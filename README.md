@@ -63,7 +63,7 @@ BaliHaven/
 ## 🚀 Cara Menjalankan Project
 
 1. **Clone Repository**
-   git clone https://github.com/username-anda/balihaven.git
+   git clone https://github.com/username-anda/Web_Balihaven.git
    cd balihaven
 
 2. **Install Dependensi**
@@ -85,4 +85,4 @@ BaliHaven/
 
 ---
 
-**Created by [Nama Anda]**
+**Created by Ibnu Faiz**
